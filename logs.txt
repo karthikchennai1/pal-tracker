@@ -1,0 +1,516 @@
+Retrieving logs for app pal-tracker in org MRS / space development as karthikeyan.t44@wipro.com...
+
+   2019-04-08T03:05:26.45-0700 [RTR/11] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.396+0000] "GET /tmpp/cgi-cdn/vredhat252438fsgds73X8vV7jMX2MLEsIM9ddw117952feM3434323Sjp3ijUOUFKd/signin.php HTTP/1.1" 404 0 212 "-" "Ruby" "10.10.66.182:20630" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"bf655fff-bc8f-4725-71fa-e45239d82e1c" response_time:0.055175972 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"7cb483d606bcbd1c" x_b3_spanid:"7cb483d606bcbd1c" x_b3_parentspanid:"-" b3:"7cb483d606bcbd1c-7cb483d606bcbd1c"
+   2019-04-08T03:05:26.45-0700 [RTR/11] OUT 
+   2019-04-08T03:05:26.48-0700 [RTR/8] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.471+0000] "GET /tmpp/cgi-cdn/r.php HTTP/1.1" 404 0 139 "-" "Ruby" "10.10.2.23:38756" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"e1c0a946-eded-49e1-40f2-1e4fc90689e7" response_time:0.01308277 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"6501668f26c1e848" x_b3_spanid:"6501668f26c1e848" x_b3_parentspanid:"-" b3:"6501668f26c1e848-6501668f26c1e848"
+   2019-04-08T03:05:26.48-0700 [RTR/8] OUT 
+   2019-04-08T03:05:26.51-0700 [RTR/6] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.497+0000] "GET /tmpp/cgi-cdn/_s_s_/login.php HTTP/1.1" 404 0 149 "-" "Ruby" "10.10.66.182:20508" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"539f748d-0c03-4436-5fe1-7b961ca39c92" response_time:0.013837766 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"e91e8c132ed5788c" x_b3_spanid:"e91e8c132ed5788c" x_b3_parentspanid:"-" b3:"e91e8c132ed5788c-e91e8c132ed5788c"
+   2019-04-08T03:05:26.51-0700 [RTR/6] OUT 
+   2019-04-08T03:05:26.53-0700 [RTR/4] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.520+0000] "GET /home.php HTTP/1.1" 404 0 129 "-" "Ruby" "10.10.2.23:28584" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"878ffe8d-24a3-4a67-64b5-06340e995ee9" response_time:0.013997377 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"a51af83938c59db2" x_b3_spanid:"a51af83938c59db2" x_b3_parentspanid:"-" b3:"a51af83938c59db2-a51af83938c59db2"
+   2019-04-08T03:05:26.53-0700 [RTR/4] OUT 
+   2019-04-08T03:05:26.56-0700 [RTR/1] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.551+0000] "GET /public/home.php HTTP/1.1" 404 0 136 "-" "Ruby" "10.10.66.182:19990" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"fd2f0658-551e-40c9-7de1-71762ddc3c8b" response_time:0.014726216 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"0974c5862aa621c5" x_b3_spanid:"0974c5862aa621c5" x_b3_parentspanid:"-" b3:"0974c5862aa621c5-0974c5862aa621c5"
+   2019-04-08T03:05:26.56-0700 [RTR/1] OUT 
+   2019-04-08T03:05:26.61-0700 [RTR/10] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.595+0000] "GET /templates/home.php HTTP/1.1" 404 0 139 "-" "Ruby" "10.10.2.23:43400" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"08915a45-ff87-4f15-44b9-e31087dafcb1" response_time:0.019919586 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"502171146d71ad11" x_b3_spanid:"502171146d71ad11" x_b3_parentspanid:"-" b3:"502171146d71ad11-502171146d71ad11"
+   2019-04-08T03:05:26.61-0700 [RTR/10] OUT 
+   2019-04-08T03:05:26.64-0700 [RTR/1] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.627+0000] "GET /log.php HTTP/1.1" 404 0 128 "-" "Ruby" "10.10.66.182:19998" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"82e4f493-e170-4cf1-73d8-764075114e48" response_time:0.012825546 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"fd38c1ca130b913a" x_b3_spanid:"fd38c1ca130b913a" x_b3_parentspanid:"-" b3:"fd38c1ca130b913a-fd38c1ca130b913a"
+   2019-04-08T03:05:26.64-0700 [RTR/1] OUT 
+   2019-04-08T03:05:26.65-0700 [RTR/8] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.652+0000] "GET /Login/log.php HTTP/1.1" 404 0 134 "-" "Ruby" "10.10.2.23:38848" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"a160015b-01aa-4069-7aee-4024bc50909f" response_time:0.006246115 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"3e76926205b1ac1a" x_b3_spanid:"3e76926205b1ac1a" x_b3_parentspanid:"-" b3:"3e76926205b1ac1a-3e76926205b1ac1a"
+   2019-04-08T03:05:26.65-0700 [RTR/8] OUT 
+   2019-04-08T03:05:26.70-0700 [RTR/5] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.680+0000] "GET /SigninRegistration.php HTTP/1.1" 404 0 143 "-" "Ruby" "10.10.66.182:63648" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"8f95f787-8245-49cb-7cdc-7d445f00ff41" response_time:0.02038827 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"c94a870aaede1e80" x_b3_spanid:"c94a870aaede1e80" x_b3_parentspanid:"-" b3:"c94a870aaede1e80-c94a870aaede1e80"
+   2019-04-08T03:05:26.70-0700 [RTR/5] OUT 
+   2019-04-08T03:05:26.73-0700 [RTR/2] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.714+0000] "GET /vubv.htm HTTP/1.1" 404 0 129 "-" "Ruby" "10.10.2.23:30168" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"49110062-3dea-4cfc-4248-a4b6c936b34b" response_time:0.020227227 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"e438fc77522ae9d5" x_b3_spanid:"e438fc77522ae9d5" x_b3_parentspanid:"-" b3:"e438fc77522ae9d5-e438fc77522ae9d5"
+   2019-04-08T03:05:26.73-0700 [RTR/2] OUT 
+   2019-04-08T03:05:26.75-0700 [RTR/5] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.749+0000] "GET /nimda.php HTTP/1.1" 404 0 130 "-" "Ruby" "10.10.66.182:62928" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"94ffc088-3d45-424a-43ca-4acc253e8f89" response_time:0.006682094 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"68e9b499bf3267be" x_b3_spanid:"68e9b499bf3267be" x_b3_parentspanid:"-" b3:"68e9b499bf3267be-68e9b499bf3267be"
+   2019-04-08T03:05:26.75-0700 [RTR/5] OUT 
+   2019-04-08T03:05:26.77-0700 [RTR/11] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.764+0000] "GET /hmrc_auth/ HTTP/1.1" 404 0 131 "-" "Ruby" "10.10.2.23:47250" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"a69fbe0d-b54a-4473-7d97-fa6127c018a3" response_time:0.008120171 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"faed14146c2aa593" x_b3_spanid:"faed14146c2aa593" x_b3_parentspanid:"-" b3:"faed14146c2aa593-faed14146c2aa593"
+   2019-04-08T03:05:26.77-0700 [RTR/11] OUT 
+   2019-04-08T03:05:26.79-0700 [RTR/8] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.786+0000] "POST /comanda_read HTTP/1.1" 404 25 133 "-" "Ruby" "10.10.66.182:39500" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.66.182" x_forwarded_proto:"http" vcap_request_id:"365732e1-2581-4b90-5289-1183628094e9" response_time:0.011700184 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"09ff99096fecb221" x_b3_spanid:"09ff99096fecb221" x_b3_parentspanid:"-" b3:"09ff99096fecb221-09ff99096fecb221"
+   2019-04-08T03:05:26.79-0700 [RTR/8] OUT 
+   2019-04-08T03:05:26.82-0700 [RTR/0] OUT pal-tracker-wacky-quokka.cfapps.io - [2019-04-08T10:05:26.810+0000] "POST /comanda_read HTTP/1.1" 404 239 133 "-" "Ruby" "10.10.2.23:14482" "10.10.149.27:61002" x_forwarded_for:"52.54.37.33, 10.10.2.23" x_forwarded_proto:"http" vcap_request_id:"92b7b11c-c027-4701-6cd5-794a6cdf4f94" response_time:0.016151282 app_id:"31e52823-9132-4e5c-bcaa-066a7646e9e1" app_index:"0" x_b3_traceid:"5a35cc1a15574a6a" x_b3_spanid:"5a35cc1a15574a6a" x_b3_parentspanid:"-" b3:"5a35cc1a15574a6a-5a35cc1a15574a6a"
+   2019-04-08T03:05:26.82-0700 [RTR/0] OUT 
+   2019-04-08T03:51:58.90-0700 [API/15] OUT Updated app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 ({"buildpack"=>"", "disk_quota"=>1024, "environment_json"=>"[PRIVATE DATA HIDDEN]", "health_check_http_endpoint"=>"", "health_check_type"=>"port", "instances"=>1, "memory"=>1024, "name"=>"pal-tracker", "space_guid"=>"6f825284-249e-49f0-9004-1c9d40407d5d"})
+   2019-04-08T03:52:03.57-0700 [API/8] OUT Uploading bits for app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1
+   2019-04-08T03:52:12.00-0700 [CELL/0] OUT Cell 0a2078bd-a9b3-4bdf-91da-8a4c049f559c stopping instance 1e659586-2664-4a26-5310-c1fd
+   2019-04-08T03:52:12.00-0700 [API/16] OUT Updated app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 ({"state"=>"STOPPED"})
+   2019-04-08T03:52:12.81-0700 [API/9] OUT Creating build for app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1
+   2019-04-08T03:52:14.96-0700 [API/9] OUT Updated app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 ({"state"=>"STARTED"})
+   2019-04-08T03:52:15.09-0700 [STG/0] OUT Downloading nodejs_buildpack...
+   2019-04-08T03:52:15.11-0700 [STG/0] OUT Downloading python_buildpack...
+   2019-04-08T03:52:15.14-0700 [STG/0] OUT Downloaded go_buildpack
+   2019-04-08T03:52:15.14-0700 [STG/0] OUT Downloading php_buildpack...
+   2019-04-08T03:52:15.14-0700 [STG/0] OUT Downloaded nodejs_buildpack
+   2019-04-08T03:52:15.14-0700 [STG/0] OUT Downloading binary_buildpack...
+   2019-04-08T03:52:15.14-0700 [STG/0] OUT Downloading ruby_buildpack...
+   2019-04-08T03:52:15.15-0700 [STG/0] OUT Downloaded dotnet_core_buildpack_beta
+   2019-04-08T03:52:15.15-0700 [STG/0] OUT Downloading staticfile_buildpack...
+   2019-04-08T03:52:15.17-0700 [STG/0] OUT Downloaded python_buildpack
+   2019-04-08T03:52:15.17-0700 [STG/0] OUT Downloading dotnet_core_buildpack...
+   2019-04-08T03:52:15.18-0700 [STG/0] OUT Downloaded ruby_buildpack
+   2019-04-08T03:52:15.19-0700 [STG/0] OUT Downloaded php_buildpack
+   2019-04-08T03:52:15.21-0700 [STG/0] OUT Downloaded binary_buildpack
+   2019-04-08T03:52:15.37-0700 [STG/0] OUT Downloaded dotnet_core_buildpack
+   2019-04-08T03:52:15.37-0700 [STG/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 creating container for instance 1657fb11-0e05-48f2-aaed-64999adee628
+   2019-04-08T03:52:16.37-0700 [STG/0] OUT Downloading app package...
+   2019-04-08T03:52:16.37-0700 [STG/0] OUT Downloading build artifacts cache...
+   2019-04-08T03:52:16.38-0700 [STG/0] ERR Downloading build artifacts cache failed
+   2019-04-08T03:52:17.10-0700 [STG/0] OUT Downloaded app package (13.8M)
+   2019-04-08T03:52:17.15-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:17.158  INFO 15 --- [       Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@45752059: startup date [Mon Apr 08 07:48:41 UTC 2019]; root of context hierarchy
+   2019-04-08T03:52:17.16-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:52:17.16-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:17.161  INFO 15 --- [       Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+   2019-04-08T03:52:17.30-0700 [APP/PROC/WEB/0] OUT Exit status 143
+   2019-04-08T03:52:17.34-0700 [CELL/0] OUT Cell 0a2078bd-a9b3-4bdf-91da-8a4c049f559c destroying container for instance 1e659586-2664-4a26-5310-c1fd
+   2019-04-08T03:52:17.51-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:52:17.84-0700 [CELL/0] OUT Cell 0a2078bd-a9b3-4bdf-91da-8a4c049f559c successfully destroyed container for instance 1e659586-2664-4a26-5310-c1fd
+   2019-04-08T03:52:19.02-0700 [STG/0] OUT [1m[31m----->[0m[22m [1m[34mJava Buildpack[0m[22m [34mv4.19[0m [34m(offline)[0m | https://github.com/cloudfoundry/java-buildpack.git#3f4eee2
+   2019-04-08T03:52:19.07-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mJvmkill Agent[0m[22m [34m1.16.0_RELEASE[0m from https://java-buildpack.cloudfoundry.org/jvmkill/bionic/x86_64/jvmkill-1.16.0_RELEASE.so [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:19.08-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mOpen Jdk JRE[0m[22m [34m11.0.2_09[0m from https://java-buildpack.cloudfoundry.org/openjdk/bionic/x86_64/openjdk-jre-11.0.2_09-bionic.tar.gz [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:20.30-0700 [STG/0] OUT        Expanding Open Jdk JRE to .java-buildpack/open_jdk_jre [3m[32m(1.2s)[0m[23m
+   2019-04-08T03:52:20.30-0700 [STG/0] OUT        JVM DNS caching disabled in lieu of BOSH DNS caching
+   2019-04-08T03:52:20.30-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mOpen JDK Like Memory Calculator[0m[22m [34m3.13.0_RELEASE[0m from https://java-buildpack.cloudfoundry.org/memory-calculator/bionic/x86_64/memory-calculator-3.13.0_RELEASE.tar.gz [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:20.54-0700 [STG/0] OUT        Loaded Classes: 18317, Threads: 250
+   2019-04-08T03:52:20.55-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mClient Certificate Mapper[0m[22m [34m1.8.0_RELEASE[0m from https://java-buildpack.cloudfoundry.org/client-certificate-mapper/client-certificate-mapper-1.8.0_RELEASE.jar [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:20.55-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mContainer Security Provider[0m[22m [34m1.16.0_RELEASE[0m from https://java-buildpack.cloudfoundry.org/container-security-provider/container-security-provider-1.16.0_RELEASE.jar [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:20.55-0700 [STG/0] OUT [1m[31m----->[0m[22m Downloading [1m[34mSpring Auto Reconfiguration[0m[22m [34m2.7.0_RELEASE[0m from https://java-buildpack.cloudfoundry.org/auto-reconfiguration/auto-reconfiguration-2.7.0_RELEASE.jar [3m[32m(found in cache)[0m[23m
+   2019-04-08T03:52:29.60-0700 [STG/0] OUT Exit status 0
+   2019-04-08T03:52:29.60-0700 [STG/0] OUT Uploading droplet, build artifacts cache...
+   2019-04-08T03:52:29.60-0700 [STG/0] OUT Uploading droplet...
+   2019-04-08T03:52:29.60-0700 [STG/0] OUT Uploading build artifacts cache...
+   2019-04-08T03:52:29.72-0700 [STG/0] OUT Uploaded build artifacts cache (128B)
+   2019-04-08T03:52:30.43-0700 [API/20] OUT Creating droplet for app with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1
+   2019-04-08T03:52:35.72-0700 [STG/0] OUT Uploaded droplet (58.3M)
+   2019-04-08T03:52:35.74-0700 [STG/0] OUT Uploading complete
+   2019-04-08T03:52:36.26-0700 [STG/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 stopping instance 1657fb11-0e05-48f2-aaed-64999adee628
+   2019-04-08T03:52:36.26-0700 [STG/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 destroying container for instance 1657fb11-0e05-48f2-aaed-64999adee628
+   2019-04-08T03:52:36.75-0700 [CELL/0] OUT Cell a20d15c4-8a18-4c25-a543-e2715a39e3c8 creating container for instance 8d3ed56f-a9a5-4140-5a80-4e6f
+   2019-04-08T03:52:36.82-0700 [STG/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 successfully destroyed container for instance 1657fb11-0e05-48f2-aaed-64999adee628
+   2019-04-08T03:52:37.41-0700 [CELL/0] OUT Cell a20d15c4-8a18-4c25-a543-e2715a39e3c8 successfully created container for instance 8d3ed56f-a9a5-4140-5a80-4e6f
+   2019-04-08T03:52:40.94-0700 [CELL/0] OUT Starting health monitoring of container
+   2019-04-08T03:52:41.47-0700 [APP/PROC/WEB/0] OUT JVM Memory Configuration: -Xmx411792K -Xss1M -XX:ReservedCodeCacheSize=240M -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=124783K
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT   .   ____          _            __ _ _
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT   '  |____| .__|_| |_|_| |_\__, | / / / /
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT  =========|_|==============|___/=/_/_/_/
+   2019-04-08T03:52:44.23-0700 [APP/PROC/WEB/0] OUT  :: Spring Boot ::        (v2.0.6.RELEASE)
+   2019-04-08T03:52:44.69-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:44.679  INFO 22 --- [           main] pertySourceApplicationContextInitializer : 'cloud' property source added
+   2019-04-08T03:52:44.69-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:44.694  INFO 22 --- [           main] nfigurationApplicationContextInitializer : Reconfiguration enabled
+   2019-04-08T03:52:44.71-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:44.719  INFO 22 --- [           main] i.p.pal.tracker.PalTrackerApplication    : Starting PalTrackerApplication on 8d3ed56f-a9a5-4140-5a80-4e6f with PID 22 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app)
+   2019-04-08T03:52:44.72-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:44.719  INFO 22 --- [           main] i.p.pal.tracker.PalTrackerApplication    : The following profiles are active: cloud
+   2019-04-08T03:52:44.91-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:44.909  INFO 22 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@36ebc363: startup date [Mon Apr 08 10:52:44 UTC 2019]; root of context hierarchy
+   2019-04-08T03:52:46.05-0700 [APP/PROC/WEB/0] ERR WARNING: An illegal reflective access operation has occurred
+   2019-04-08T03:52:46.05-0700 [APP/PROC/WEB/0] ERR WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (jar:file:/home/vcap/app/BOOT-INF/lib/spring-core-5.0.10.RELEASE.jar!/) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+   2019-04-08T03:52:46.05-0700 [APP/PROC/WEB/0] ERR WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+   2019-04-08T03:52:46.05-0700 [APP/PROC/WEB/0] ERR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+   2019-04-08T03:52:46.05-0700 [APP/PROC/WEB/0] ERR WARNING: All illegal access operations will be denied in a future release
+   2019-04-08T03:52:47.51-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.510  INFO 22 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+   2019-04-08T03:52:47.55-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.555  INFO 22 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+   2019-04-08T03:52:47.55-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.556  INFO 22 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+   2019-04-08T03:52:47.57-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.573  INFO 22 --- [ost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+   2019-04-08T03:52:47.71-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.712  INFO 22 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+   2019-04-08T03:52:47.71-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.713  INFO 22 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2815 ms
+   2019-04-08T03:52:47.96-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.968  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'clientCertificateMapper' to: [/*]
+   2019-04-08T03:52:47.96-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.969  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+   2019-04-08T03:52:47.97-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.969  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+   2019-04-08T03:52:47.97-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.970  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+   2019-04-08T03:52:47.97-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.970  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+   2019-04-08T03:52:47.97-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:47.970  INFO 22 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+   2019-04-08T03:52:48.10-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:48.103  WARN 22 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:52:48.11-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:48.106  INFO 22 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+   2019-04-08T03:52:48.17-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:48.174  INFO 22 --- [           main] ConditionEvaluationReportLoggingListener : 
+   2019-04-08T03:52:48.17-0700 [APP/PROC/WEB/0] OUT Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:52:48.187 ERROR 22 --- [           main] o.s.boot.SpringApplication               : Application run failed
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:508) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:548) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:386) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at io.pivotal.pal.tracker.PalTrackerApplication.main(PalTrackerApplication.java:10) ~[classes/:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48) ~[app/:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87) ~[app/:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50) ~[app/:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51) ~[app/:na]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:839) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1083) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:819) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:725) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:198) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1123) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:52:48.18-0700 [APP/PROC/WEB/0] OUT 	... 22 common frames omitted
+   2019-04-08T03:52:48.26-0700 [APP/PROC/WEB/0] OUT Exit status 1
+   2019-04-08T03:52:48.26-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:52:53.83-0700 [CELL/0] OUT Cell a20d15c4-8a18-4c25-a543-e2715a39e3c8 stopping instance 8d3ed56f-a9a5-4140-5a80-4e6f
+   2019-04-08T03:52:53.83-0700 [CELL/0] OUT Cell a20d15c4-8a18-4c25-a543-e2715a39e3c8 destroying container for instance 8d3ed56f-a9a5-4140-5a80-4e6f
+   2019-04-08T03:52:53.83-0700 [API/19] OUT Process has crashed with type: "web"
+   2019-04-08T03:52:53.85-0700 [API/19] OUT App instance exited with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 payload: {"instance"=>"8d3ed56f-a9a5-4140-5a80-4e6f", "index"=>0, "cell_id"=>"a20d15c4-8a18-4c25-a543-e2715a39e3c8", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>1, "crash_timestamp"=>1554720773808432942, "version"=>"2fe2bf51-f8aa-4c4f-a8f9-11667366fbdf"}
+   2019-04-08T03:52:53.98-0700 [CELL/0] OUT Cell 427f4537-d113-4050-8f1f-eb1875759ae8 creating container for instance 87dc7b46-3aec-44d5-6bd7-e594
+   2019-04-08T03:52:54.00-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:52:54.42-0700 [CELL/0] OUT Cell a20d15c4-8a18-4c25-a543-e2715a39e3c8 successfully destroyed container for instance 8d3ed56f-a9a5-4140-5a80-4e6f
+   2019-04-08T03:52:54.94-0700 [CELL/0] OUT Cell 427f4537-d113-4050-8f1f-eb1875759ae8 successfully created container for instance 87dc7b46-3aec-44d5-6bd7-e594
+   2019-04-08T03:52:58.74-0700 [CELL/0] OUT Starting health monitoring of container
+   2019-04-08T03:52:59.41-0700 [APP/PROC/WEB/0] OUT JVM Memory Configuration: -Xmx411792K -Xss1M -XX:ReservedCodeCacheSize=240M -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=124783K
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT   .   ____          _            __ _ _
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT   '  |____| .__|_| |_|_| |_\__, | / / / /
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT  =========|_|==============|___/=/_/_/_/
+   2019-04-08T03:53:05.54-0700 [APP/PROC/WEB/0] OUT  :: Spring Boot ::        (v2.0.6.RELEASE)
+   2019-04-08T03:53:06.36-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:06.346  INFO 14 --- [           main] pertySourceApplicationContextInitializer : 'cloud' property source added
+   2019-04-08T03:53:06.37-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:06.370  INFO 14 --- [           main] nfigurationApplicationContextInitializer : Reconfiguration enabled
+   2019-04-08T03:53:06.41-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:06.410  INFO 14 --- [           main] i.p.pal.tracker.PalTrackerApplication    : Starting PalTrackerApplication on 87dc7b46-3aec-44d5-6bd7-e594 with PID 14 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app)
+   2019-04-08T03:53:06.41-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:06.414  INFO 14 --- [           main] i.p.pal.tracker.PalTrackerApplication    : The following profiles are active: cloud
+   2019-04-08T03:53:06.68-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:06.682  INFO 14 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@22555ebf: startup date [Mon Apr 08 10:53:06 UTC 2019]; root of context hierarchy
+   2019-04-08T03:53:08.19-0700 [APP/PROC/WEB/0] ERR WARNING: An illegal reflective access operation has occurred
+   2019-04-08T03:53:08.19-0700 [APP/PROC/WEB/0] ERR WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (jar:file:/home/vcap/app/BOOT-INF/lib/spring-core-5.0.10.RELEASE.jar!/) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+   2019-04-08T03:53:08.19-0700 [APP/PROC/WEB/0] ERR WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+   2019-04-08T03:53:08.19-0700 [APP/PROC/WEB/0] ERR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+   2019-04-08T03:53:08.19-0700 [APP/PROC/WEB/0] ERR WARNING: All illegal access operations will be denied in a future release
+   2019-04-08T03:53:10.27-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.279  INFO 14 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+   2019-04-08T03:53:10.36-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.361  INFO 14 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+   2019-04-08T03:53:10.36-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.362  INFO 14 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+   2019-04-08T03:53:10.39-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.393  INFO 14 --- [ost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+   2019-04-08T03:53:10.58-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.579  INFO 14 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+   2019-04-08T03:53:10.58-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.580  INFO 14 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3925 ms
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.807  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'clientCertificateMapper' to: [/*]
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.808  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.808  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.808  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.808  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+   2019-04-08T03:53:10.80-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.809  INFO 14 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+   2019-04-08T03:53:10.91-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.917  WARN 14 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:10.92-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.921  INFO 14 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+   2019-04-08T03:53:10.95-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.952  INFO 14 --- [           main] ConditionEvaluationReportLoggingListener : 
+   2019-04-08T03:53:10.95-0700 [APP/PROC/WEB/0] OUT Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:10.964 ERROR 14 --- [           main] o.s.boot.SpringApplication               : Application run failed
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:508) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:548) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:386) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at io.pivotal.pal.tracker.PalTrackerApplication.main(PalTrackerApplication.java:10) ~[classes/:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48) ~[app/:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87) ~[app/:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50) ~[app/:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51) ~[app/:na]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:839) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1083) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:819) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:725) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:198) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1266) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1123) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:10.96-0700 [APP/PROC/WEB/0] OUT 	... 22 common frames omitted
+   2019-04-08T03:53:11.09-0700 [APP/PROC/WEB/0] OUT Exit status 1
+   2019-04-08T03:53:11.10-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:53:16.71-0700 [CELL/0] OUT Cell 427f4537-d113-4050-8f1f-eb1875759ae8 stopping instance 87dc7b46-3aec-44d5-6bd7-e594
+   2019-04-08T03:53:16.71-0700 [CELL/0] OUT Cell 427f4537-d113-4050-8f1f-eb1875759ae8 destroying container for instance 87dc7b46-3aec-44d5-6bd7-e594
+   2019-04-08T03:53:16.72-0700 [API/17] OUT Process has crashed with type: "web"
+   2019-04-08T03:53:16.74-0700 [API/17] OUT App instance exited with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 payload: {"instance"=>"87dc7b46-3aec-44d5-6bd7-e594", "index"=>0, "cell_id"=>"427f4537-d113-4050-8f1f-eb1875759ae8", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>2, "crash_timestamp"=>1554720796684586514, "version"=>"2fe2bf51-f8aa-4c4f-a8f9-11667366fbdf"}
+   2019-04-08T03:53:16.86-0700 [CELL/0] OUT Cell 5073b904-f802-48b7-a837-68172af649b4 creating container for instance 52e6490c-eb25-4efe-7686-928e
+   2019-04-08T03:53:16.98-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:53:17.55-0700 [CELL/0] OUT Cell 427f4537-d113-4050-8f1f-eb1875759ae8 successfully destroyed container for instance 87dc7b46-3aec-44d5-6bd7-e594
+   2019-04-08T03:53:18.02-0700 [CELL/0] OUT Cell 5073b904-f802-48b7-a837-68172af649b4 successfully created container for instance 52e6490c-eb25-4efe-7686-928e
+   2019-04-08T03:53:22.13-0700 [CELL/0] OUT Starting health monitoring of container
+   2019-04-08T03:53:22.99-0700 [APP/PROC/WEB/0] OUT JVM Memory Configuration: -Xmx411792K -Xss1M -XX:ReservedCodeCacheSize=240M -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=124783K
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT   .   ____          _            __ _ _
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT   '  |____| .__|_| |_|_| |_\__, | / / / /
+   2019-04-08T03:53:32.07-0700 [APP/PROC/WEB/0] OUT  =========|_|==============|___/=/_/_/_/
+   2019-04-08T03:53:32.08-0700 [APP/PROC/WEB/0] OUT  :: Spring Boot ::        (v2.0.6.RELEASE)
+   2019-04-08T03:53:34.29-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:34.267  INFO 13 --- [           main] pertySourceApplicationContextInitializer : 'cloud' property source added
+   2019-04-08T03:53:34.31-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:34.318  INFO 13 --- [           main] nfigurationApplicationContextInitializer : Reconfiguration enabled
+   2019-04-08T03:53:34.40-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:34.399  INFO 13 --- [           main] i.p.pal.tracker.PalTrackerApplication    : Starting PalTrackerApplication on 52e6490c-eb25-4efe-7686-928e with PID 13 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app)
+   2019-04-08T03:53:34.40-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:34.400  INFO 13 --- [           main] i.p.pal.tracker.PalTrackerApplication    : The following profiles are active: cloud
+   2019-04-08T03:53:35.25-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:35.253  INFO 13 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@36ebc363: startup date [Mon Apr 08 10:53:35 UTC 2019]; root of context hierarchy
+   2019-04-08T03:53:39.04-0700 [APP/PROC/WEB/0] ERR WARNING: An illegal reflective access operation has occurred
+   2019-04-08T03:53:39.04-0700 [APP/PROC/WEB/0] ERR WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (jar:file:/home/vcap/app/BOOT-INF/lib/spring-core-5.0.10.RELEASE.jar!/) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+   2019-04-08T03:53:39.04-0700 [APP/PROC/WEB/0] ERR WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+   2019-04-08T03:53:39.04-0700 [APP/PROC/WEB/0] ERR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+   2019-04-08T03:53:39.04-0700 [APP/PROC/WEB/0] ERR WARNING: All illegal access operations will be denied in a future release
+   2019-04-08T03:53:43.19-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.192  INFO 13 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+   2019-04-08T03:53:43.27-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.273  INFO 13 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+   2019-04-08T03:53:43.27-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.276  INFO 13 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+   2019-04-08T03:53:43.32-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.322  INFO 13 --- [ost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+   2019-04-08T03:53:43.54-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.541  INFO 13 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+   2019-04-08T03:53:43.54-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.542  INFO 13 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 8400 ms
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.884  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'clientCertificateMapper' to: [/*]
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.884  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.885  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.885  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.885  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+   2019-04-08T03:53:43.88-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:43.885  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+   2019-04-08T03:53:44.20-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:44.205  WARN 13 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:44.21-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:44.215  INFO 13 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+   2019-04-08T03:53:44.38-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:44.382  INFO 13 --- [           main] ConditionEvaluationReportLoggingListener : 
+   2019-04-08T03:53:44.38-0700 [APP/PROC/WEB/0] OUT Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:53:44.424 ERROR 13 --- [           main] o.s.boot.SpringApplication               : Application run failed
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:508) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:548) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:386) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at io.pivotal.pal.tracker.PalTrackerApplication.main(PalTrackerApplication.java:10) ~[classes/:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48) ~[app/:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87) ~[app/:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50) ~[app/:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51) ~[app/:na]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:839) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1083) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:819) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:725) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:198) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1266) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1123) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:53:44.42-0700 [APP/PROC/WEB/0] OUT 	... 22 common frames omitted
+   2019-04-08T03:53:44.74-0700 [APP/PROC/WEB/0] OUT Exit status 1
+   2019-04-08T03:53:44.75-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:53:51.67-0700 [CELL/0] OUT Cell 5073b904-f802-48b7-a837-68172af649b4 stopping instance 52e6490c-eb25-4efe-7686-928e
+   2019-04-08T03:53:51.67-0700 [CELL/0] OUT Cell 5073b904-f802-48b7-a837-68172af649b4 destroying container for instance 52e6490c-eb25-4efe-7686-928e
+   2019-04-08T03:53:51.70-0700 [API/15] OUT Process has crashed with type: "web"
+   2019-04-08T03:53:51.72-0700 [API/15] OUT App instance exited with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 payload: {"instance"=>"52e6490c-eb25-4efe-7686-928e", "index"=>0, "cell_id"=>"5073b904-f802-48b7-a837-68172af649b4", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>3, "crash_timestamp"=>1554720831671543760, "version"=>"2fe2bf51-f8aa-4c4f-a8f9-11667366fbdf"}
+   2019-04-08T03:53:52.84-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:53:52.93-0700 [CELL/0] OUT Cell 5073b904-f802-48b7-a837-68172af649b4 successfully destroyed container for instance 52e6490c-eb25-4efe-7686-928e
+   2019-04-08T03:54:27.32-0700 [CELL/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 creating container for instance 1439e157-e16d-4e6d-606f-eba4
+   2019-04-08T03:54:27.84-0700 [CELL/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 successfully created container for instance 1439e157-e16d-4e6d-606f-eba4
+   2019-04-08T03:54:30.52-0700 [CELL/0] OUT Starting health monitoring of container
+   2019-04-08T03:54:30.84-0700 [APP/PROC/WEB/0] OUT JVM Memory Configuration: -Xmx411792K -Xss1M -XX:ReservedCodeCacheSize=240M -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=124783K
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT   .   ____          _            __ _ _
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT   '  |____| .__|_| |_|_| |_\__, | / / / /
+   2019-04-08T03:54:34.30-0700 [APP/PROC/WEB/0] OUT  =========|_|==============|___/=/_/_/_/
+   2019-04-08T03:54:34.31-0700 [APP/PROC/WEB/0] OUT  :: Spring Boot ::        (v2.0.6.RELEASE)
+   2019-04-08T03:54:34.76-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:34.756  INFO 13 --- [           main] pertySourceApplicationContextInitializer : 'cloud' property source added
+   2019-04-08T03:54:34.76-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:34.768  INFO 13 --- [           main] nfigurationApplicationContextInitializer : Reconfiguration enabled
+   2019-04-08T03:54:34.79-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:34.794  INFO 13 --- [           main] i.p.pal.tracker.PalTrackerApplication    : Starting PalTrackerApplication on 1439e157-e16d-4e6d-606f-eba4 with PID 13 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app)
+   2019-04-08T03:54:34.79-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:34.797  INFO 13 --- [           main] i.p.pal.tracker.PalTrackerApplication    : The following profiles are active: cloud
+   2019-04-08T03:54:34.89-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:34.898  INFO 13 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@292b08d6: startup date [Mon Apr 08 10:54:34 UTC 2019]; root of context hierarchy
+   2019-04-08T03:54:35.69-0700 [APP/PROC/WEB/0] ERR WARNING: An illegal reflective access operation has occurred
+   2019-04-08T03:54:35.69-0700 [APP/PROC/WEB/0] ERR WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (jar:file:/home/vcap/app/BOOT-INF/lib/spring-core-5.0.10.RELEASE.jar!/) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+   2019-04-08T03:54:35.69-0700 [APP/PROC/WEB/0] ERR WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+   2019-04-08T03:54:35.69-0700 [APP/PROC/WEB/0] ERR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+   2019-04-08T03:54:35.69-0700 [APP/PROC/WEB/0] ERR WARNING: All illegal access operations will be denied in a future release
+   2019-04-08T03:54:37.08-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.087  INFO 13 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+   2019-04-08T03:54:37.12-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.125  INFO 13 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+   2019-04-08T03:54:37.12-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.125  INFO 13 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+   2019-04-08T03:54:37.14-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.148  INFO 13 --- [ost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+   2019-04-08T03:54:37.41-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.415  INFO 13 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+   2019-04-08T03:54:37.41-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.416  INFO 13 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2534 ms
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.601  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'clientCertificateMapper' to: [/*]
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.602  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.604  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.604  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.605  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+   2019-04-08T03:54:37.60-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.606  INFO 13 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+   2019-04-08T03:54:37.71-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.713  WARN 13 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:54:37.71-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.717  INFO 13 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+   2019-04-08T03:54:37.75-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.753  INFO 13 --- [           main] ConditionEvaluationReportLoggingListener : 
+   2019-04-08T03:54:37.75-0700 [APP/PROC/WEB/0] OUT Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:54:37.768 ERROR 13 --- [           main] o.s.boot.SpringApplication               : Application run failed
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:508) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:548) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:386) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at io.pivotal.pal.tracker.PalTrackerApplication.main(PalTrackerApplication.java:10) ~[classes/:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48) ~[app/:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87) ~[app/:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50) ~[app/:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51) ~[app/:na]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:839) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1083) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:819) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:725) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:198) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1266) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1123) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:54:37.76-0700 [APP/PROC/WEB/0] OUT 	... 22 common frames omitted
+   2019-04-08T03:54:37.84-0700 [APP/PROC/WEB/0] OUT Exit status 1
+   2019-04-08T03:54:37.85-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:54:43.09-0700 [CELL/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 stopping instance 1439e157-e16d-4e6d-606f-eba4
+   2019-04-08T03:54:43.09-0700 [CELL/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 destroying container for instance 1439e157-e16d-4e6d-606f-eba4
+   2019-04-08T03:54:43.12-0700 [API/1] OUT Process has crashed with type: "web"
+   2019-04-08T03:54:43.14-0700 [API/1] OUT App instance exited with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 payload: {"instance"=>"1439e157-e16d-4e6d-606f-eba4", "index"=>0, "cell_id"=>"e2595d07-5c43-45f0-95b4-d89207c51c98", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>4, "crash_timestamp"=>1554720883092796499, "version"=>"2fe2bf51-f8aa-4c4f-a8f9-11667366fbdf"}
+   2019-04-08T03:54:43.27-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:54:43.56-0700 [CELL/0] OUT Cell e2595d07-5c43-45f0-95b4-d89207c51c98 successfully destroyed container for instance 1439e157-e16d-4e6d-606f-eba4
+   2019-04-08T03:56:01.52-0700 [CELL/0] OUT Cell 060515ff-8fea-4d78-a989-adcec15c84fe creating container for instance 69460196-fb2c-4ee2-5c44-44f7
+   2019-04-08T03:56:02.32-0700 [CELL/0] OUT Cell 060515ff-8fea-4d78-a989-adcec15c84fe successfully created container for instance 69460196-fb2c-4ee2-5c44-44f7
+   2019-04-08T03:56:06.32-0700 [CELL/0] OUT Starting health monitoring of container
+   2019-04-08T03:56:07.00-0700 [APP/PROC/WEB/0] OUT JVM Memory Configuration: -Xmx411792K -Xss1M -XX:ReservedCodeCacheSize=240M -XX:MaxDirectMemorySize=10M -XX:MaxMetaspaceSize=124783K
+   2019-04-08T03:56:10.52-0700 [APP/PROC/WEB/0] OUT   .   ____          _            __ _ _
+   2019-04-08T03:56:10.52-0700 [APP/PROC/WEB/0] OUT  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+   2019-04-08T03:56:10.52-0700 [APP/PROC/WEB/0] OUT  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+   2019-04-08T03:56:10.52-0700 [APP/PROC/WEB/0] OUT   '  |____| .__|_| |_|_| |_\__, | / / / /
+   2019-04-08T03:56:10.52-0700 [APP/PROC/WEB/0] OUT  =========|_|==============|___/=/_/_/_/
+   2019-04-08T03:56:10.53-0700 [APP/PROC/WEB/0] OUT  :: Spring Boot ::        (v2.0.6.RELEASE)
+   2019-04-08T03:56:11.29-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:11.285  INFO 21 --- [           main] pertySourceApplicationContextInitializer : 'cloud' property source added
+   2019-04-08T03:56:11.31-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:11.312  INFO 21 --- [           main] nfigurationApplicationContextInitializer : Reconfiguration enabled
+   2019-04-08T03:56:11.34-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:11.339  INFO 21 --- [           main] i.p.pal.tracker.PalTrackerApplication    : Starting PalTrackerApplication on 69460196-fb2c-4ee2-5c44-44f7 with PID 21 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app)
+   2019-04-08T03:56:11.34-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:11.340  INFO 21 --- [           main] i.p.pal.tracker.PalTrackerApplication    : The following profiles are active: cloud
+   2019-04-08T03:56:11.55-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:11.551  INFO 21 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@43bc63a3: startup date [Mon Apr 08 10:56:11 UTC 2019]; root of context hierarchy
+   2019-04-08T03:56:13.00-0700 [APP/PROC/WEB/0] ERR WARNING: An illegal reflective access operation has occurred
+   2019-04-08T03:56:13.00-0700 [APP/PROC/WEB/0] ERR WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (jar:file:/home/vcap/app/BOOT-INF/lib/spring-core-5.0.10.RELEASE.jar!/) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+   2019-04-08T03:56:13.00-0700 [APP/PROC/WEB/0] ERR WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+   2019-04-08T03:56:13.00-0700 [APP/PROC/WEB/0] ERR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+   2019-04-08T03:56:13.00-0700 [APP/PROC/WEB/0] ERR WARNING: All illegal access operations will be denied in a future release
+   2019-04-08T03:56:14.62-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.624  INFO 21 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+   2019-04-08T03:56:14.67-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.673  INFO 21 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+   2019-04-08T03:56:14.67-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.673  INFO 21 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.34
+   2019-04-08T03:56:14.70-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.708  INFO 21 --- [ost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+   2019-04-08T03:56:14.85-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.851  INFO 21 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+   2019-04-08T03:56:14.85-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:14.852  INFO 21 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3355 ms
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.034  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'clientCertificateMapper' to: [/*]
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.034  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.034  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.035  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.035  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+   2019-04-08T03:56:15.03-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.035  INFO 21 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+   2019-04-08T03:56:15.13-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.135  WARN 21 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:56:15.14-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.146  INFO 21 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+   2019-04-08T03:56:15.19-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.196  INFO 21 --- [           main] ConditionEvaluationReportLoggingListener : 
+   2019-04-08T03:56:15.19-0700 [APP/PROC/WEB/0] OUT Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 2019-04-08 10:56:15.212 ERROR 21 --- [           main] o.s.boot.SpringApplication               : Application run failed
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'welcomeController' defined in file [/home/vcap/app/BOOT-INF/classes/io/pivotal/pal/tracker/WelcomeController.class]: Unexpected exception during bean creation; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:508) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:548) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:386) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230) ~[spring-boot-2.0.6.RELEASE.jar!/:2.0.6.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at io.pivotal.pal.tracker.PalTrackerApplication.main(PalTrackerApplication.java:10) ~[classes/:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[na:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48) ~[app/:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87) ~[app/:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50) ~[app/:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51) ~[app/:na]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'welcome.message' in value "${welcome.message}"
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:839) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1083) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1062) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:819) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:725) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:198) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1266) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1123) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:535) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:495) ~[spring-beans-5.0.10.RELEASE.jar!/:5.0.10.RELEASE]
+   2019-04-08T03:56:15.21-0700 [APP/PROC/WEB/0] OUT 	... 22 common frames omitted
+   2019-04-08T03:56:15.27-0700 [APP/PROC/WEB/0] OUT Exit status 1
+   2019-04-08T03:56:15.27-0700 [CELL/SSHD/0] OUT Exit status 0
+   2019-04-08T03:56:21.22-0700 [CELL/0] OUT Cell 060515ff-8fea-4d78-a989-adcec15c84fe stopping instance 69460196-fb2c-4ee2-5c44-44f7
+   2019-04-08T03:56:21.22-0700 [CELL/0] OUT Cell 060515ff-8fea-4d78-a989-adcec15c84fe destroying container for instance 69460196-fb2c-4ee2-5c44-44f7
+   2019-04-08T03:56:21.24-0700 [API/16] OUT Process has crashed with type: "web"
+   2019-04-08T03:56:21.26-0700 [API/16] OUT App instance exited with guid 31e52823-9132-4e5c-bcaa-066a7646e9e1 payload: {"instance"=>"69460196-fb2c-4ee2-5c44-44f7", "index"=>0, "cell_id"=>"060515ff-8fea-4d78-a989-adcec15c84fe", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 1", "crash_count"=>5, "crash_timestamp"=>1554720981221090537, "version"=>"2fe2bf51-f8aa-4c4f-a8f9-11667366fbdf"}
+   2019-04-08T03:56:21.41-0700 [PROXY/0] OUT Exit status 137
+   2019-04-08T03:56:21.80-0700 [CELL/0] OUT Cell 060515ff-8fea-4d78-a989-adcec15c84fe successfully destroyed container for instance 69460196-fb2c-4ee2-5c44-44f7
